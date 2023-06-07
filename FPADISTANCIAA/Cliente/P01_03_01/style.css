@@ -1,0 +1,9 @@
+#resultados {
+    background: yellow;
+ }
+ .cargando {
+    background: red;
+ }
+ .cargada {
+    background: green;
+ }
